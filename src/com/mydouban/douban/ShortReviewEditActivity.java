@@ -10,7 +10,7 @@ import com.google.gdata.data.douban.Status;
 import com.google.gdata.data.douban.SubjectEntry;
 import com.google.gdata.data.extensions.Rating;
 
-import android.app.AlertDialog; 
+import android.app.AlertDialog;  
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
@@ -28,7 +28,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 public class ShortReviewEditActivity extends BaseActivity {
-
+ 
 	private final int SUCCESS = 1;
 	private TextView txtCollectionTip;
 	private Subject subject;
