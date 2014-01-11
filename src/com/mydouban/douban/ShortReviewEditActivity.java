@@ -1,4 +1,4 @@
-package com.chenyc.douban;
+﻿package com.chenyc.douban;
 
 import com.chenyc.douban.entity.Subject;
 import com.chenyc.douban.util.ConvertUtil;
@@ -10,7 +10,7 @@ import com.google.gdata.data.douban.Status;
 import com.google.gdata.data.douban.SubjectEntry;
 import com.google.gdata.data.extensions.Rating;
 
-import android.app.AlertDialog;
+import android.app.AlertDialog; 
 import android.app.ProgressDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
