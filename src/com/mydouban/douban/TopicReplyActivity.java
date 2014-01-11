@@ -10,9 +10,9 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast; 
 
-import com.chenyc.douban.util.NetUtil; 
+import com.chenyc.douban.util.NetUtil;  
   
-public class TopicReplyActivity extends BaseActivity{
+public class TopicReplyActivity extends  BaseActivity{
 
 	private EditText edtContent;
 	private Button submit;
